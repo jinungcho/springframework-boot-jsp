@@ -29,3 +29,4 @@ build/
 
 ### VS Code ###
 .vscode/
+/front_vue/node_modules

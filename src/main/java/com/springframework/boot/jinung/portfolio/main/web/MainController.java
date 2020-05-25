@@ -20,7 +20,7 @@ public class MainController {
     @RequestMapping(value = "/")
     public String index(HttpServletRequest request) {
 
-        return "index";
+        return "index.html";
     }
 
     @RequestMapping(value = "/login.do")
